@@ -1,15 +1,14 @@
-# UniEconomyReact
-UniEconomy Mobile app build with React Native
+# ERP
+Mobile app build with React Native
 
 ### Setting up the project
 
 1 - Install React Native CLI and development environment by following the [Getting Started Guide](https://facebook.github.io/react-native/docs/getting-started.html#content)
 
 2 - Clone the repository
-```sh
-$ git clone https://github.com/unimicro/UniEconomyReact.git
-``` 
-3 - Change the working dir to UniEconomyMobileReact
+
+
+3 - Change the working dir to ERP
 
 4 - Install npm dependencies 
 ```sh
