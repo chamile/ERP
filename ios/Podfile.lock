@@ -1,0 +1,30 @@
+PODS:
+  - AppAuth (0.95.0)
+  - AppCenter/Analytics (1.12.0):
+    - AppCenter/Core
+  - AppCenter/Core (1.12.0)
+  - AppCenter/Crashes (1.12.0):
+    - AppCenter/Core
+  - AppCenterReactNativeShared (1.11.0):
+    - AppCenter/Core (= 1.12.0)
+
+DEPENDENCIES:
+  - AppAuth (>= 0.94)
+  - AppCenter/Analytics (~> 1.12.0)
+  - AppCenter/Crashes (~> 1.12.0)
+  - AppCenterReactNativeShared (~> 1.11.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AppAuth
+    - AppCenter
+    - AppCenterReactNativeShared
+
+SPEC CHECKSUMS:
+  AppAuth: 137f6bb6fc9dfbaf2cf9f6fcff1d336ff0163bc6
+  AppCenter: 4d27bdafd74b1b3e90946b9989fd6011a7e39c5e
+  AppCenterReactNativeShared: 74a1c684b8183b3edef0a7e41d567fe8bd31075d
+
+PODFILE CHECKSUM: 6396dc642d03e7ce5a207a118cd9a57f09e68f71
+
+COCOAPODS: 1.6.2

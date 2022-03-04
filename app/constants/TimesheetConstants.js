@@ -1,0 +1,18 @@
+export const TimesheetWorkflow = {
+  NOTSET: 0,
+  DRAFT: 1,
+  PARTIAL_ASSIGN: 4,
+  AWAITING_APPROVAL: 5,
+  PARTIAL_REJECT: 7,
+  PARTIAL_APPROVAL: 8,
+  REJECTED: 9,
+  APPROVED: 10,
+};
+
+export const WorkStatus = {
+  MISSING_FROM_WORK: 0,
+  INCOMPLETE: 1,
+  COMPLETE: 2,
+  OVERTIME_OR_FLEX: 3,
+  VAILD_TIME_OFF: 4,
+};

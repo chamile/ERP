@@ -1,0 +1,10 @@
+export const WorkItemGroupStatus = {
+  NOTSET: null,
+  DRAFT: 60001,
+  AWAITING_APPROVAL: 60005,
+  REJECTED: 60009,
+  APPROVED: 60010,
+  PARTIAL_PAID: 60020,
+  PAID: 60021,
+};
+

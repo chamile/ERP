@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  UniEconomyMobile
+
+  Created by Chanaka Athurugiriya on 1/7/19.
+  Copyright © 2019 Facebook. All rights reserved.
+*/
+
+NSCameraUsageDescription = "Gi tilgang til kameraet slik at du kan ta bilde av dine dokumenter og produkter og laste dem opp direkte til UniEconomy.";
+NSPhotoLibraryUsageDescription = "Gi tilgang til bildefilene slik at du kan laste opp bilder av dokumenter og produkter direkte til UniEconomy.";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Gir deg effektive varsler avhengig av din stilling.";
+NSLocationAlwaysUsageDescription = "Gir deg effektive varsler avhengig av din stilling.";
+NSLocationWhenInUseUsageDescription = "Gir deg effektive varsler avhengig av din stilling.";
